@@ -1,8 +1,3 @@
-var d;
-var m;
-var sum;
-var d;
-
 function duplicate(){
     var d = Getal1 * Getal2;
     Getal1 = document.getElementById("Getal1").value;
